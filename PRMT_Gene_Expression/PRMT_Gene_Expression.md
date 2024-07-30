@@ -278,7 +278,7 @@ data_long_modified %>%
 
 
     
-![png](output_17_0.png)
+![png](images/output_17_0.png)
     
 
 
@@ -299,7 +299,7 @@ data_long_modified %>%
 
 
     
-![png](output_18_0.png)
+![png](images/output_18_0.png)
     
 
 
@@ -319,7 +319,7 @@ data_long_modified %>%
 
 
     
-![png](output_19_0.png)
+![png](images/output_19_0.png)
     
 
 
@@ -339,7 +339,7 @@ data_long_modified %>%
 
 
     
-![png](output_20_0.png)
+![png](images/output_20_0.png)
     
 
 
@@ -354,7 +354,7 @@ data_long_modified %>%
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 
@@ -369,7 +369,7 @@ data_long_modified %>%
 
 
     
-![png](output_22_0.png)
+![png](images/output_22_0.png)
     
 
 
@@ -391,7 +391,7 @@ data_long_modified %>%
 
 
     
-![png](output_23_1.png)
+![png](images/output_23_1.png)
     
 
 
@@ -407,6 +407,6 @@ data_long_modified %>%
 
 
     
-![png](output_24_0.png)
+![png](images/output_24_0.png)
     
 
